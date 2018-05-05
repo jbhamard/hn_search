@@ -1,0 +1,8 @@
+/api/log/*
+/api/tmp/*
+/api/indices/*
+
+/indexer/indices/*
+
+# Ignore Byebug command history file.
+/api/.byebug_history
